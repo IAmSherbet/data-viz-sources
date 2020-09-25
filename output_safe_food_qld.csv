@@ -1,0 +1,83 @@
+concept_name,count_questions,count_modules,count_courses,count_enterprises,courses_title
+Food safety,28,18,6,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; PASE - Demo; Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Pathogen,19,16,4,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; PASE - Demo
+Product recall,15,12,6,1, DA PASE Test; Food Recall Training; Food Recall Training (Draft); Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Hazard analysis and critical control points,15,11,5,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Foodborne illness,9,9,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Risk assessment,9,9,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Incubation period,9,9,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Symptom,9,9,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Food,8,8,5,1, Food Recall Training; Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; PASE - Demo
+False (logic),8,8,5,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Business education,7,7,4,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; PASE - Demo
+Contamination,6,6,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Dairy product,6,6,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Education,10,6,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Microorganism,6,6,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Resource,6,6,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+System,6,6,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Product (business),5,5,5,1, Food Recall Training; Food Recall Training (Draft); Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Statement (computer science),5,5,5,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Statement (logic),5,5,5,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Subroutine,5,5,5,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Business,5,5,5,1, Food Recall Training; Food Recall Training (Draft); Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Flour,4,4,4,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; PASE - Demo
+Safety culture,4,4,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Soil,4,4,4,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; PASE - Demo
+Spice,4,4,4,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT; PASE - Demo
+Value (ethics),3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Truth,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Road traffic safety,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Mouth,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Proposition,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Recall (memory),3,3,3,1, DA PASE Test; Food Recall Training; Food Recall Training (Draft)
+Manufacturing,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Information,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Natural environment,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Neoplatonism,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Organism,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Health,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Goods,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Government,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Environmental monitoring,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Dairy,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Consumer,3,3,2,1, Food Recall Training; Food Recall Training (Draft)
+Adult,3,3,3,1, Microbiological Testing in Dairy Manufacturing; Microbiological Testing in Dairy Manufacturing Copy 2; Microbiological Testing in Dairy Manufacturing DRAFT
+Best practice,2,2,2,1, Food Recall Training; Food Recall Training (Draft)
+Boolean data type,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Celsius,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Commons,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Company,6,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Computer program,4,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Contract,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Critical control point,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Evidence,2,2,2,1, Food Recall Training; Food Recall Training (Draft)
+Fear,2,2,2,1, Food Recall Training; Food Recall Training (Draft)
+Feeling,2,2,2,1, Food Recall Training; Food Recall Training (Draft)
+Histology,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Organizational chart,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Outline (list),2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Pasteurization,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Plan International,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Leadership,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Management,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Milk,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Record (computer science),2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Narrative,2,2,2,1, Food Recall Training; Food Recall Training (Draft)
+Risk,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Truth value,2,2,2,1, Understanding Food Safety Programs; Understanding Food Safety Programs Internal Use
+Wholesaling,2,2,2,1, Food Recall Training; Food Recall Training (Draft)
+State (polity),2,2,2,1, Food Recall Training; Food Recall Training (Draft)
+Regulation,1,1,1,1, Food Recall Training
+Sales,1,1,1,1, Food Recall Training
+Supply (economics),1,1,1,1, Food Recall Training (Draft)
+Supply and demand,1,1,1,1, Food Recall Training
+Market (economics),1,1,1,1, Food Recall Training
+Planning,1,1,1,1, DA PASE Test
+Process engineering,1,1,1,1, Food Recall Training
+Event (philosophy),1,1,1,1, Food Recall Training
+Employment,1,1,1,1, Food Recall Training
+Customer,1,1,1,1, Food Recall Training
+Direct marketing,1,1,1,1, Food Recall Training
+Corporate social responsibility,1,1,1,1, Food Recall Training
+Asynchronous array of simple processors,1,1,1,1, Food Recall Training
