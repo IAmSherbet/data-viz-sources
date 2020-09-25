@@ -1,0 +1,168 @@
+concept_name,count_questions,count_modules,count_courses,count_enterprises,courses_title
+Child,28,19,7,1, Connecting with Children; Handling Transitions and Separations; Relationships with Parents; Sensory Processing Series; Speech and Language Development Milestones; Trauma Series; V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Education,21,18,8,1, Building Independence; Conducting a Great Centre Tour; Connecting with Children; Handling Transitions and Separations; Relationships with Parents; Sensory Processing Series; Speech and Language Development Milestones; Trauma Series
+Truth value,20,17,5,1, Connecting with Children; Handling Transitions and Separations; Relationships with Parents; Speech and Language Development Milestones; Trauma Series
+Parent,11,8,4,1, Handling Transitions and Separations; Relationships with Parents; Sensory Processing Series; Trauma Series
+Sense,9,7,4,1, Conducting a Great Centre Tour; Sensory Processing Series; Trauma Series; V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Emotion,6,5,3,1, Building Independence; Sensory Processing Series; Trauma Series
+Interpersonal relationship,5,4,3,1, Relationships with Parents; Trauma Series; V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Skill,4,4,3,1, Building Independence; Connecting with Children; Trauma Series
+Social norm,4,4,4,1, Connecting with Children; Handling Transitions and Separations; Sensory Processing Series; Speech and Language Development Milestones
+Social influence,3,3,2,1, Sensory Processing Series; Trauma Series
+Experience,4,3,3,1, Handling Transitions and Separations; Sensory Processing Series; Trauma Series
+Binary relation,3,3,2,1, Connecting with Children; Trauma Series
+X-PLOR,4,3,2,1, Exploring Xplor; Exploring Xplor - Office
+Word,2,2,2,1, Speech and Language Development Milestones; Trauma Series
+Concept,2,2,2,1, Connecting with Children; Relationships with Parents
+Conversation,2,2,2,1, Sensory Processing Series; Speech and Language Development Milestones
+Computer data storage,2,2,2,1, Connecting with Children; Relationships with Parents
+Development of the nervous system,2,2,2,1, Connecting with Children; Trauma Series
+Developmental psychology,2,2,2,1, Trauma Series; V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Health,2,2,2,1, Trauma Series; V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Formal language,2,2,2,1, Handling Transitions and Separations; Speech and Language Development Milestones
+Family,2,2,2,1, Sensory Processing Series; Trauma Series
+Language,2,2,2,1, Connecting with Children; Speech and Language Development Milestones
+Idea,2,2,2,1, Connecting with Children; Sensory Processing Series
+Infant,2,2,2,1, Connecting with Children; Handling Transitions and Separations
+Information security awareness,2,2,2,1, Information Security Awareness; Test Security Course
+Natural environment,2,2,2,1, Handling Transitions and Separations; Trauma Series
+Nature versus nurture,2,2,2,1, Handling Transitions and Separations; Trauma Series
+Social change,2,2,2,1, Handling Transitions and Separations; Speech and Language Development Milestones
+Speech,2,2,1,1, Speech and Language Development Milestones
+Strategy,2,2,1,1, Sensory Processing Series
+Somatosensory system,2,2,2,1, Connecting with Children; Sensory Processing Series
+Teacher,3,2,2,1, Connecting with Children; Trauma Series
+Value (ethics),2,2,2,1, Handling Transitions and Separations; Trauma Series
+Time,2,2,2,1, Connecting with Children; Trauma Series
+Therapy,2,2,2,1, Sensory Processing Series; Trauma Series
+Trust (emotion),2,2,2,1, Trauma Series; V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Regulation,2,2,1,1, Sensory Processing Series
+Respect,2,2,2,1, Relationships with Parents; Trauma Series
+Safety,2,2,1,1, Trauma Series
+Psychological trauma,2,2,1,1, Trauma Series
+Perception,3,2,1,1, Sensory Processing Series
+Permaculture,1,1,1,1, Sensory Processing Series
+Person,1,1,1,1, Connecting with Children
+Personal development,1,1,1,1, Trauma Series
+Phenotypic trait,1,1,1,1, Building Independence
+Phoneme,1,1,1,1, Speech and Language Development Milestones
+Physical fitness,1,1,1,1, Trauma Series
+Play (activity),3,1,1,1, Connecting with Children
+Positivism,1,1,1,1, Trauma Series
+Praise,1,1,1,1, Connecting with Children
+Predictability,1,1,1,1, Trauma Series
+Preference,1,1,1,1, Sensory Processing Series
+Problem solving,2,1,1,1, Building Independence
+Procedural memory,1,1,1,1, Relationships with Parents
+Proprioception,1,1,1,1, Sensory Processing Series
+Public company,1,1,1,1, Information Security Awareness
+Question,1,1,1,1, quiz test
+Reason,1,1,1,1, Exploring Xplor - Office
+Parenting,1,1,1,1, Handling Transitions and Separations
+Payment gateway,1,1,1,1, Exploring Xplor
+Pediatric nursing,1,1,1,1, Handling Transitions and Separations
+Scientific method,1,1,1,1, Trauma Series
+Self-care,1,1,1,1, Trauma Series
+Self-esteem,1,1,1,1, Connecting with Children
+Risk,1,1,1,1, Building Independence
+Risk management,1,1,1,1, Relationships with Parents
+Role-playing,1,1,1,1, Trauma Series
+Social,1,1,1,1, Trauma Series
+Invoice,1,1,1,1, Exploring Xplor
+Sense and reference,1,1,1,1, Relationships with Parents
+Sensory nervous system,1,1,1,1, Sensory Processing Series
+Sensory processing,1,1,1,1, Sensory Processing Series
+Sign (semiotics),1,1,1,1, Handling Transitions and Separations
+Silicon Valley of India,1,1,1,1, quiz test
+Truth,1,1,1,1, Speech and Language Development Milestones
+Threat (computer),1,1,1,1, Information Security Awareness
+Time in Australia,1,1,1,1, Exploring Xplor - Office
+Toddler,1,1,1,1, Handling Transitions and Separations
+Toy,1,1,1,1, V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Vestibular system,1,1,1,1, Sensory Processing Series
+Vulnerability,1,1,1,1, Trauma Series
+Wi-Fi,2,1,1,1, Information Security Awareness
+Uncertainty,1,1,1,1, Trauma Series
+Understanding,1,1,1,1, Trauma Series
+Unique key,1,1,1,1, Relationships with Parents
+User (computing),1,1,1,1, Exploring Xplor
+Test (assessment),1,1,1,1, quiz test
+Specialty (medicine),1,1,1,1, Handling Transitions and Separations
+Stress (biology),1,1,1,1, Trauma Series
+Stress in early childhood,1,1,1,1, Trauma Series
+Suffering,2,1,1,1, Handling Transitions and Separations
+Sympathy,1,1,1,1, Relationships with Parents
+Taste,1,1,1,1, Sensory Processing Series
+Speech-language pathology,1,1,1,1, Speech and Language Development Milestones
+Stimulus (psychology),1,1,1,1, Trauma Series
+Stimulus modality,1,1,1,1, Sensory Processing Series
+Storytelling,1,1,1,1, Trauma Series
+Strategic management,1,1,1,1, Sensory Processing Series
+Social philosophy,1,1,1,1, Building Independence
+Social status,1,1,1,1, Speech and Language Development Milestones
+Olfaction,1,1,1,1, Sensory Processing Series
+Optimism,1,1,1,1, Trauma Series
+Information theory,1,1,1,1, Speech and Language Development Milestones
+Independence (mathematical logic),1,1,1,1, Building Independence
+Language development,1,1,1,1, Speech and Language Development Milestones
+Lateralization of brain function,1,1,1,1, Trauma Series
+Legal separation,1,1,1,1, Handling Transitions and Separations
+Lie,1,1,1,1, Speech and Language Development Milestones
+Life,1,1,1,1, V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Meaning (linguistics),1,1,1,1, Trauma Series
+Meaning of life,1,1,1,1, Sensory Processing Series
+Memory,1,1,1,1, Connecting with Children
+Mergers and acquisitions,1,1,1,1, Exploring Xplor
+Model theory,1,1,1,1, Speech and Language Development Milestones
+Family medicine,1,1,1,1, Handling Transitions and Separations
+Fear,1,1,1,1, Trauma Series
+Financial statement,1,1,1,1, Exploring Xplor
+Fine motor skill,1,1,1,1, Speech and Language Development Milestones
+First-order logic,1,1,1,1, Speech and Language Development Milestones
+Employee benefits,1,1,1,1, Sensory Processing Series
+Event (probability theory),1,1,1,1, Trauma Series
+Educational technology,1,1,1,1, Trauma Series
+Foster care,1,1,1,1, Trauma Series
+Government,1,1,1,1, Exploring Xplor - Office
+Green Zone,1,1,1,1, Sensory Processing Series
+Hadith,1,1,1,1, Speech and Language Development Milestones
+Happiness,2,1,1,1, Connecting with Children
+Human fertilization,1,1,1,1, Trauma Series
+Humility,1,1,1,1, Trauma Series
+Expert,1,1,1,1, Sensory Processing Series
+Digital identity,1,1,1,1, Information Security Awareness
+Direct debit,1,1,1,1, Exploring Xplor
+Ecological resilience,1,1,1,1, Building Independence
+Developmental biology,1,1,1,1, V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Computer network,1,1,1,1, Information Security Awareness
+Council for Catholic Maintained Schools,1,1,1,1, Exploring Xplor
+Creativity,1,1,1,1, Sensory Processing Series
+Curriculum,1,1,1,1, Handling Transitions and Separations
+Debit card,1,1,1,1, Exploring Xplor - Office
+Decision-making,1,1,1,1, Conducting a Great Centre Tour
+Deposit account,1,1,1,1, Exploring Xplor - Office
+Conceptual model,1,1,1,1, Connecting with Children
+Conflict resolution,1,1,1,1, Connecting with Children
+Consistency,1,1,1,1, Handling Transitions and Separations
+Control theory,1,1,1,1, Trauma Series
+Blue Zone,1,1,1,1, Sensory Processing Series
+Caregiver,1,1,1,1, Sensory Processing Series
+Case study,1,1,1,1, Handling Transitions and Separations
+Certainty,1,1,1,1, Trauma Series
+Child development,1,1,1,1, Connecting with Children
+Child labour,1,1,1,1, Exploring Xplor
+Childhood,1,1,1,1, Trauma Series
+Color,1,1,1,1, Exploring Xplor
+Common law,1,1,1,1, Trauma Series
+Community,1,1,1,1, Relationships with Parents
+Access control,1,1,1,1, Exploring Xplor
+Accounting,2,1,1,1, Exploring Xplor
+ACM Computing Classification System,1,1,1,1, Exploring Xplor - Office
+Action (philosophy),1,1,1,1, Trauma Series
+Adolescence,1,1,1,1, Building Independence
+Adult,1,1,1,1, V2 - Sleep and Settling: Social-Emotional Development in Infants and Toddlers (Course 1)
+Advice (opinion),1,1,1,1, Relationships with Parents
+Anger,1,1,1,1, Trauma Series
+Anxiety,1,1,1,1, Handling Transitions and Separations
+Autopilot,2,1,1,1, Relationships with Parents
+Youth,1,1,1,1, Handling Transitions and Separations
